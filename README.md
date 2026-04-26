@@ -76,4 +76,4 @@ mimic-iii-analysis/
 
 ---
 
-*Candidate: [Your Name] · Data Insights AI Intern*
+*Candidate: Yiman · Data Insights AI Intern*
